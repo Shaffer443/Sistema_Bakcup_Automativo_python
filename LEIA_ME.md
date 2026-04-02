@@ -68,3 +68,4 @@ Exemplo: valor 3 = mantém os 3 mais recentes, deleta os mais antigos.
 - Windows 10 ou superior
 - Python 3.11+ instalado com "Add to PATH" marcado
 - Biblioteca `schedule` (instalada automaticamente pelo .bat)
+   - caso dê erro no `schedule`, use **python -m pip install schedule** com o python instalado. 
